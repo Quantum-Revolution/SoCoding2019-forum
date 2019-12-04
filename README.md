@@ -39,7 +39,7 @@
 ## 维护者
 
 * 项目负责人：[HZY](https://github.com/Quantum-Revolution)
-* 前端（2 人）：
-* 后端（3 人）：
+* 前端（2 人）：FWJ  WMY
+* 后端（3 人）：RJL  HYH  HZY
 * 未分类：[RJL](https://github.com/bobby285271)、[WMY](https://github.com/greatmove)、[HYH](https://github.com/Meta-phy)、[HZY](https://github.com/Quantum-Revolution)、[FWJ](https://github.com/Feng-Wenjun)
 #QAQ----metaphy
